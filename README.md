@@ -1,6 +1,6 @@
 # columns-4-ways
 
-Working in groups of 2 or 3, and using the sample markup provided, research and demonstrate creating CSS columns – splitting the content provided up into 3 equal columns – using the following techniques:
+Using the sample markup provided, research and demonstrate creating CSS columns – splitting the content provided up into 2 equal columns – using the following techniques:
 
 <ol>
   <li>floated columns with divs</li>
